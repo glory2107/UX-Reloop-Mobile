@@ -31,8 +31,7 @@
 
 ## Link Akses & Demo
 Kamu bisa melihat langsung detail desain dan mencoba interaksinya melalui tautan di bawah ini:
-- [Lihat File & Prototype Figma Lengkap](https://www.figma.com/design/mNW5mI23MBtZSf5tuhZZia/Kelompok-3-HUHA?node-id=0-1&t=IJXUHoLcbmWQe53U-1)[cite: 21]
-- [Dokumentasi Proses & Laporan Lengkap](https://drive.google.com/drive/folders/1tBNVLIaocSuIeokjQ9N3HpuCKiNqoPmw?usp=sharing)[cite: 21]
-
+- [Lihat File & Prototype Figma Lengkap](https://www.figma.com/design/mNW5mI23MBtZSf5tuhZZia/Kelompok-3-HUHA?node-id=0-1&t=IJXUHoLcbmWQe53U-1)
+- [Dokumentasi Proses & Laporan Lengkap](https://drive.google.com/drive/folders/1tBNVLIaocSuIeokjQ9N3HpuCKiNqoPmw?usp=sharing)
 ---
 *Terima kasih telah melihat portofolio ini! Jika ada masukan atau diskusi, silakan hubungi saya.*
