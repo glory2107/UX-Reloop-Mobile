@@ -9,7 +9,7 @@
 
 - **Peran:** UI/UX Designer (Tim TriCraft: Glory Gratia Geraldine, Tiara Pardosi, Threenines Lubis)[cite: 1]
 - **Tools:** Figma, FigJam[cite: 7]
-- **Durasi Pengerjaan:** (Sesuaikan durasi pengerjaan lombamu, misal: 1 Bulan)
+- **Durasi Pengerjaan:** (2 Minggu)
 
 ---
 
