@@ -5,27 +5,27 @@
 ---
 
 ## Tentang Proyek
-**Reloop** adalah rancangan aplikasi *mobile* khusus barang *preloved* yang menyediakan dua mode transaksi terintegrasi, yaitu jual dan sewa[cite: 4, 14]. Proyek ini dibuat untuk mengatasi masalah *asymmetric information* (ketimpangan informasi antara penjual dan pembeli) dalam transaksi barang bekas, sekaligus mendorong perpanjangan usia pakai produk untuk mendukung prinsip *circular economy*[cite: 4, 20]. Target utamanya adalah pengguna berusia 18–30 tahun, khususnya mahasiswa[cite: 4, 13].
+**Reloop** adalah rancangan aplikasi *mobile* khusus barang *preloved* yang menyediakan dua mode transaksi terintegrasi, yaitu jual dan sewa. Proyek ini dibuat untuk mengatasi masalah *asymmetric information* (ketimpangan informasi antara penjual dan pembeli) dalam transaksi barang bekas, sekaligus mendorong perpanjangan usia pakai produk untuk mendukung prinsip *circular economy*. Target utamanya adalah pengguna berusia 18–30 tahun, khususnya mahasiswa.
 
-- **Peran:** UI/UX Designer (Tim TriCraft: Glory Gratia Geraldine, Tiara Pardosi, Threenines Lubis)[cite: 1]
-- **Tools:** Figma, FigJam[cite: 7]
-- **Durasi Pengerjaan:** (2 Minggu)
+- **Peran:** UI/UX Designer (Tim TriCraft: Glory Gratia Geraldine, Tiara Pardosi, Threenines Lubis)
+- **Tools:** Figma, FigJam
+- **Durasi Pengerjaan:** 2 Minggu
 
 ---
 
 ## Problem & Solution
-- **Masalah:** Sebanyak 80% responden merasa khawatir kondisi barang tidak sesuai dengan foto atau deskripsi yang diberikan penjual[cite: 7]. Sistem *rating* bintang 1–5 pada *marketplace* konvensional dinilai belum cukup akurat karena hanya berfokus pada ulasan layanan secara umum, bukan pada kejujuran spesifik kondisi fisik produk[cite: 4, 7].
+- **Masalah:** Sebanyak 80% responden merasa khawatir kondisi barang tidak sesuai dengan foto atau deskripsi yang diberikan penjual. Sistem *rating* bintang 1–5 pada *marketplace* konvensional dinilai belum cukup akurat karena hanya berfokus pada ulasan layanan secara umum, bukan pada kejujuran spesifik kondisi fisik produk.
 - **Solusi:** Reloop menghadirkan beberapa fitur utama:
-  - **Checklist Accuracy:** Sistem metrik penilaian persentase untuk mengukur tingkat kesesuaian klaim kondisi barang berdasarkan riwayat transaksi[cite: 8, 15].
-  - **Dual Mode (Jual & Sewa):** Menyediakan opsi jual-beli dan penyewaan dalam satu aplikasi[cite: 8, 14].
-  - **Filter Radius:** Membantu pengguna mencari barang sewaan terdekat berdasarkan geolokasi untuk mempermudah serah-terima langsung[cite: 8, 14].
-  - **Escrow System & Buyer Protection:** Simulasi penahanan dana sementara dan perlindungan pembeli demi keamanan transaksi serta kemudahan retur[cite: 8, 15].
+  - **Checklist Accuracy:** Sistem metrik penilaian persentase untuk mengukur tingkat kesesuaian klaim kondisi barang berdasarkan riwayat transaksi.
+  - **Dual Mode (Jual & Sewa):** Menyediakan opsi jual-beli dan penyewaan dalam satu aplikasi.
+  - **Filter Radius:** Membantu pengguna mencari barang sewaan terdekat berdasarkan geolokasi untuk mempermudah serah-terima langsung.
+  - **Escrow System & Buyer Protection:** Simulasi penahanan dana sementara dan perlindungan pembeli demi keamanan transaksi serta kemudahan retur.
 
 ---
 
 ## Design System & UI Highlights
 - **Color Palette:** Didominasi warna hijau (*primary*) yang merepresentasikan konsep keberlanjutan (*circular economy*), dipadukan dengan warna netral yang bersih dan ramah pengguna muda.
-- **Typography:** Menggunakan *font* modern berjenis *sans-serif* untuk memastikan keterbacaan yang optimal pada perangkat *mobile* (Android & iOS)[cite: 19].
+- **Typography:** Menggunakan *font* modern berjenis *sans-serif* untuk memastikan keterbacaan yang optimal pada perangkat *mobile* (Android & iOS).
 
 ---
 
